@@ -1,0 +1,10 @@
+# Pybricks library for LEGO SPIKE Prime programming
+# Note: This is primarily for reference. The actual Pybricks firmware
+# runs on the LEGO hub itself, not on your computer.
+
+# For development and simulation (if available)
+# pybricks>=3.0.0
+
+# Documentation generation
+# sphinx
+# sphinx-rtd-theme
