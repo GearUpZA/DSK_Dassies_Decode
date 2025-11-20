@@ -1,4 +1,4 @@
-# DSK Dassies Decode - FIRST LEGO League Robot Programs
+# DSK Dassies Unearthed - FIRST LEGO League Robot Programs
 
 This repository contains Python programs for the DSK Dassies FLL (FIRST LEGO League) robot using LEGO SPIKE Prime hardware and Pybricks firmware.
 
